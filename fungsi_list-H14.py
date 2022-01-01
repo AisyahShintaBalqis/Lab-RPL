@@ -35,7 +35,7 @@ print("\nData Tahun Lahir : \n", tahun_lahir)
 #fungsi extend
 tahun_lahir2 = [2011,2012]
 tahun_lahir.extend(tahun_lahir2)
-print("\nList Nilai (extend : \n", tahun_lahir)
+print("\nList Nilai (extend) : \n", tahun_lahir)
 
 #fungsi reverse
 tahun_lahir.reverse()
